@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameTasks
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 193c88274fb599542ba1c48d31143a84,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[0].gameTaskName
+    value: Complete One Job Without any Crashes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[0].gameTaskCount
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[0].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[0].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[1].gameTaskName
+    value: Drive 500kms
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[1].gameTaskCount
+    value: 500
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[1].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[1].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[2].gameTaskName
+    value: Complete 2 jobs from paris
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[2].gameTaskCount
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[2].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[2].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[3].gameTaskName
+    value: Complete 3 jobs from Rome
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[3].gameTaskCount
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[3].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[3].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[4].gameTaskName
+    value: Unlock 1 bus
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[4].gameTaskCount
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[4].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[4].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[5].gameTaskName
+    value: ' Upgrade 1 Bus Completly'
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[5].gameTaskCount
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[5].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[5].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[6].gameTaskName
+    value: Spend 10 Coins
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[6].gameTaskCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[6].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[6].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[7].gameTaskName
+    value: Watch 3Ads
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[7].gameTaskCount
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[7].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[7].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[8].gameTaskName
+    value: Spend 5000Coins on fuel
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[8].gameTaskCount
+    value: 5000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[8].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[8].completedCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[9].gameTaskName
+    value: Spend 10000Coins on fuel
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[9].gameTaskCount
+    value: 10000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[9].gameTaskStatus
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tasks.Array.data[9].completedCount
+    value: 0
+    objectReference: {fileID: 0}

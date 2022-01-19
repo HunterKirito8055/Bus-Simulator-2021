@@ -1,0 +1,1370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RCC_Settings
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 7756f06ac1b082e4bb1697f768a5a41f,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: controllerSelectedIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorSelectedIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: overrideBehavior
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: overrideFPS
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: overrideFixedTimeStep
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fixedTimeStep
+    value: 0.02
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxAngularVelocity
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxFPS
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useFixedWheelColliders
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lockAndUnlockCursor
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: controllerType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].behaviorName
+    value: Simulator
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].steeringHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].tractionHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].angularDragHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].counterSteering
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].ABS
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].ESP
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].TCS
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].applyExternalWheelFrictions
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].applyRelativeTorque
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].highSpeedSteerAngleMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].highSpeedSteerAngleMaximum
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].highSpeedSteerAngleAtspeedMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].highSpeedSteerAngleAtspeedMaximum
+    value: 350
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].counterSteeringMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].counterSteeringMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].steerHelperAngularVelStrengthMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].steerHelperAngularVelStrengthMaximum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].steerHelperLinearVelStrengthMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].steerHelperLinearVelStrengthMaximum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].tractionHelperStrengthMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].tractionHelperStrengthMaximum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].antiRollFrontHorizontalMinimum
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].antiRollRearHorizontalMinimum
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].gearShiftingDelayMaximum
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].angularDrag
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].angularDragHelperMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].angularDragHelperMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].forwardExtremumSlip
+    value: 0.4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].forwardExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].forwardAsymptoteSlip
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].forwardAsymptoteValue
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].sidewaysExtremumSlip
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].sidewaysExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].sidewaysAsymptoteSlip
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[0].sidewaysAsymptoteValue
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].behaviorName
+    value: Racing
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].steeringHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].tractionHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].angularDragHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].counterSteering
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].ABS
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].ESP
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].TCS
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].applyExternalWheelFrictions
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].applyRelativeTorque
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].highSpeedSteerAngleMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].highSpeedSteerAngleMaximum
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].highSpeedSteerAngleAtspeedMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].highSpeedSteerAngleAtspeedMaximum
+    value: 350
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].counterSteeringMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].counterSteeringMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].steerHelperAngularVelStrengthMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].steerHelperAngularVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].steerHelperLinearVelStrengthMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].steerHelperLinearVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].tractionHelperStrengthMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].tractionHelperStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].antiRollFrontHorizontalMinimum
+    value: 2000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].antiRollRearHorizontalMinimum
+    value: 2000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].gearShiftingDelayMaximum
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].angularDrag
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].angularDragHelperMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].angularDragHelperMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].forwardExtremumSlip
+    value: 0.3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].forwardExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].forwardAsymptoteSlip
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].forwardAsymptoteValue
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].sidewaysExtremumSlip
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].sidewaysExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].sidewaysAsymptoteSlip
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[1].sidewaysAsymptoteValue
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].behaviorName
+    value: Drift
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].steeringHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].tractionHelper
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].angularDragHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].counterSteering
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].ABS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].ESP
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].TCS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].applyExternalWheelFrictions
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].applyRelativeTorque
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].highSpeedSteerAngleMinimum
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].highSpeedSteerAngleMaximum
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].highSpeedSteerAngleAtspeedMinimum
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].highSpeedSteerAngleAtspeedMaximum
+    value: 200
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].counterSteeringMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].counterSteeringMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].steerHelperAngularVelStrengthMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].steerHelperAngularVelStrengthMaximum
+    value: 0.015
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].steerHelperLinearVelStrengthMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].steerHelperLinearVelStrengthMaximum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].tractionHelperStrengthMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].tractionHelperStrengthMaximum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].antiRollFrontHorizontalMinimum
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].antiRollRearHorizontalMinimum
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].gearShiftingDelayMaximum
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].angularDrag
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].angularDragHelperMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].angularDragHelperMaximum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].forwardExtremumSlip
+    value: 0.4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].forwardExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].forwardAsymptoteSlip
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].forwardAsymptoteValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].sidewaysExtremumSlip
+    value: 0.4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].sidewaysExtremumValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].sidewaysAsymptoteSlip
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[2].sidewaysAsymptoteValue
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].behaviorName
+    value: Semi Arcade
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].steeringHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].tractionHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].angularDragHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].counterSteering
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].ABS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].ESP
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].TCS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].applyExternalWheelFrictions
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].applyRelativeTorque
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].highSpeedSteerAngleMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].highSpeedSteerAngleMaximum
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].highSpeedSteerAngleAtspeedMinimum
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].highSpeedSteerAngleAtspeedMaximum
+    value: 350
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].counterSteeringMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].counterSteeringMaximum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].steerHelperAngularVelStrengthMinimum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].steerHelperAngularVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].steerHelperLinearVelStrengthMinimum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].steerHelperLinearVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].tractionHelperStrengthMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].tractionHelperStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].antiRollFrontHorizontalMinimum
+    value: 7500
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].antiRollRearHorizontalMinimum
+    value: 7500
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].gearShiftingDelayMaximum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].angularDrag
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].angularDragHelperMinimum
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].angularDragHelperMaximum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].forwardExtremumSlip
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].forwardExtremumValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].forwardAsymptoteSlip
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].forwardAsymptoteValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].sidewaysExtremumSlip
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].sidewaysExtremumValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].sidewaysAsymptoteSlip
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[3].sidewaysAsymptoteValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].behaviorName
+    value: Fun
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].steeringHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].tractionHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].angularDragHelper
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].counterSteering
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].ABS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].ESP
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].TCS
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].applyExternalWheelFrictions
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].applyRelativeTorque
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].highSpeedSteerAngleMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].highSpeedSteerAngleMaximum
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].highSpeedSteerAngleAtspeedMinimum
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].highSpeedSteerAngleAtspeedMaximum
+    value: 350
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].counterSteeringMinimum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].counterSteeringMaximum
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].steerHelperAngularVelStrengthMinimum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].steerHelperAngularVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].steerHelperLinearVelStrengthMinimum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].steerHelperLinearVelStrengthMaximum
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].tractionHelperStrengthMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].tractionHelperStrengthMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].antiRollFrontHorizontalMinimum
+    value: 10000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].antiRollRearHorizontalMinimum
+    value: 10000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].gearShiftingDelayMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].angularDrag
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].angularDragHelperMinimum
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].angularDragHelperMaximum
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].forwardExtremumSlip
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].forwardExtremumValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].forwardAsymptoteSlip
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].forwardAsymptoteValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].sidewaysExtremumSlip
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].sidewaysExtremumValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].sidewaysAsymptoteSlip
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: behaviorTypes.Array.data[4].sidewaysAsymptoteValue
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: verticalInput
+    value: Vertical
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: horizontalInput
+    value: Horizontal
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mouseXInput
+    value: Mouse X
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mouseYInput
+    value: Mouse Y
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: handbrakeKB
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: startEngineKB
+    value: 105
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lowBeamHeadlightsKB
+    value: 108
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: highBeamHeadlightsKB
+    value: 107
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: rightIndicatorKB
+    value: 101
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: leftIndicatorKB
+    value: 113
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hazardIndicatorKB
+    value: 122
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shiftGearUp
+    value: 304
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shiftGearDown
+    value: 306
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: NGear
+    value: 110
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boostKB
+    value: 102
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: slowMotionKB
+    value: 103
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: changeCameraKB
+    value: 99
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: recordKB
+    value: 114
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: playbackKB
+    value: 112
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lookBackKB
+    value: 98
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: trailerAttachDetach
+    value: 116
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_verticalInput
+    value: Xbox_Vertical
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_horizontalInput
+    value: Xbox_Horizontal
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_triggerLeftInput
+    value: Xbox_TriggerLeft
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_triggerRightInput
+    value: Xbox_TriggerRight
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_mouseXInput
+    value: Xbox_MouseX
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_mouseYInput
+    value: Xbox_MouseY
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_handbrakeKB
+    value: Xbox_B
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_startEngineKB
+    value: Xbox_Y
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_lowBeamHeadlightsKB
+    value: Xbox_LB
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_highBeamHeadlightsKB
+    value: Xbox_RB
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_indicatorKB
+    value: Xbox_DPadHorizontal
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_hazardIndicatorKB
+    value: Xbox_DPadVertical
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_shiftGearUp
+    value: Xbox_RB
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_shiftGearDown
+    value: Xbox_LB
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_boostKB
+    value: Xbox_A
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_changeCameraKB
+    value: Xbox_Back
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_lookBackKB
+    value: Xbox_ClickRight
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Xbox_trailerAttachDetach
+    value: Xbox_ClickLeft
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_verticalInput
+    value: PS4_Vertical
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_horizontalInput
+    value: PS4_Horizontal
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_triggerLeftInput
+    value: PS4_TriggerLeft
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_triggerRightInput
+    value: PS4_TriggerRight
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_mouseXInput
+    value: PS4_MouseX
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_mouseYInput
+    value: PS4_MouseY
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_handbrakeKB
+    value: PS4_Circle
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_startEngineKB
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_lowBeamHeadlightsKB
+    value: PS4_Triangle
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_highBeamHeadlightsKB
+    value: PS4_Square
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_indicatorKB
+    value: PS4_DPadHorizontal
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_hazardIndicatorKB
+    value: PS4_DPadVertical
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_shiftGearUp
+    value: PS4_R1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_shiftGearDown
+    value: PS4_L1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_boostKB
+    value: PS4_X
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_changeCameraKB
+    value: PS4_Options
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_lookBackKB
+    value: PS4_ClickRight
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PS4_trailerAttachDetach
+    value: PS4_ClickLeft
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_handbrakeKB
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_startEngineKB
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_lowBeamHeadlightsKB
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_highBeamHeadlightsKB
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_hazardIndicatorKB
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_shiftGearUp
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_shiftGearDown
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_boostKB
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_changeCameraKB
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogiSteeringWheel_lookBackKB
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useVR
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useAutomaticGear
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useAutomaticClutch
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: runEngineAtAwake
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: autoReverse
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: autoReset
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: contactParticles
+    value: 
+    objectReference: {fileID: 193332, guid: 863b5201aede3aa438ac7d962625d663, type: 3}
+  - target: {fileID: 0}
+    propertyPath: units
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: uiType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useTelemetry
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mobileController
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UIButtonSensitivity
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UIButtonGravity
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gyroSensitivity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useLightsAsVertexLights
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: useLightProjectorForLightingEffect
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: setTagsAndLayers
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RCCLayer
+    value: RCC
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RCCTag
+    value: Player
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tagAllChildrenGameobjects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: chassisJoint
+    value: 
+    objectReference: {fileID: 116354, guid: a7e7b1406cded0e4cb52224eb5dc2d80, type: 3}
+  - target: {fileID: 0}
+    propertyPath: exhaustGas
+    value: 
+    objectReference: {fileID: 104134, guid: 46992adcb9d56714eb84164c8a965492, type: 3}
+  - target: {fileID: 0}
+    propertyPath: skidmarksManager
+    value: 
+    objectReference: {fileID: 114786316056322602, guid: a107dc7aa77e84f4d8cf9888def4fe64,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: projector
+    value: 
+    objectReference: {fileID: 102982, guid: 7f7b6e33e52b82e43a57b7cc85ed5cf9, type: 3}
+  - target: {fileID: 0}
+    propertyPath: projectorIgnoreLayer.m_Bits
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: headLights
+    value: 
+    objectReference: {fileID: 146832, guid: 660ec4b1fd79fa74096f0ab9e6cbd2ca, type: 3}
+  - target: {fileID: 0}
+    propertyPath: brakeLights
+    value: 
+    objectReference: {fileID: 136378, guid: 40648ef4ebef26d4c9cc0663c2f08e5e, type: 3}
+  - target: {fileID: 0}
+    propertyPath: reverseLights
+    value: 
+    objectReference: {fileID: 197258, guid: 188c477ab444228409c4a246c02a86bd, type: 3}
+  - target: {fileID: 0}
+    propertyPath: indicatorLights
+    value: 
+    objectReference: {fileID: 166118, guid: 580925c070bc6064c90563e08cb421f0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: lightTrailers
+    value: 
+    objectReference: {fileID: 166118, guid: 707887b20c5d959439a876fea0fb72af, type: 3}
+  - target: {fileID: 0}
+    propertyPath: mirrors
+    value: 
+    objectReference: {fileID: 132014, guid: 42ab1ab32651fc74dad3e9cedf0b5270, type: 3}
+  - target: {fileID: 0}
+    propertyPath: RCCMainCamera
+    value: 
+    objectReference: {fileID: 11400656, guid: 9f32ea4a11500b344ae05427bdc21e05, type: 3}
+  - target: {fileID: 0}
+    propertyPath: hoodCamera
+    value: 
+    objectReference: {fileID: 171864, guid: a28e2d33ee4eec642be5568debd291ab, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cinematicCamera
+    value: 
+    objectReference: {fileID: 1000014008404042, guid: 330409232e97fd84c9b2e696d6de0bd5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: RCCCanvas
+    value: 
+    objectReference: {fileID: 102148, guid: 3c49455ff7757444fa4b466c3250f423, type: 3}
+  - target: {fileID: 0}
+    propertyPath: RCCTelemetry
+    value: 
+    objectReference: {fileID: 6059275310813240883, guid: 65802e5058ade584d99e0fba314f4a68,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: dontUseAnyParticleEffects
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: dontUseSkidmarks
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: audioMixer
+    value: 
+    objectReference: {fileID: 24300002, guid: a97addf01f8029040bb6ea53d3c8e62d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: fd92e514f75331e4085d0846a166fef8, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.data[1]
+    value: 
+    objectReference: {fileID: 8300000, guid: 51d3f215e07c15a41aab4038522df8d6, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.data[2]
+    value: 
+    objectReference: {fileID: 8300000, guid: d16b0aad793dafa4fb78adaae796fbfe, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.data[3]
+    value: 
+    objectReference: {fileID: 8300000, guid: af63e188bf4d51d458ed8680ad764a3b, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gearShiftingClips.Array.data[4]
+    value: 
+    objectReference: {fileID: 8300000, guid: f5993d9cca0a2804f93ce20e421cbf04, type: 3}
+  - target: {fileID: 0}
+    propertyPath: crashClips.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: crashClips.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: 4c05a8cdfbec615458d075d1e07a7d4c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: crashClips.Array.data[1]
+    value: 
+    objectReference: {fileID: 8300000, guid: 17550b365ac51f2418915bf82b519630, type: 3}
+  - target: {fileID: 0}
+    propertyPath: crashClips.Array.data[2]
+    value: 
+    objectReference: {fileID: 8300000, guid: 82f3ac1f97a9a384db5bcb1fd1966b16, type: 3}
+  - target: {fileID: 0}
+    propertyPath: crashClips.Array.data[3]
+    value: 
+    objectReference: {fileID: 8300000, guid: 370cb2e9c8bccfe48bdec70db08e4644, type: 3}
+  - target: {fileID: 0}
+    propertyPath: reversingClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 504366e8a8a713b43b676259cd5a7b58, type: 3}
+  - target: {fileID: 0}
+    propertyPath: windClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 6c7312d1af74e3f4599722894161fafc, type: 3}
+  - target: {fileID: 0}
+    propertyPath: brakeClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 4b6a38decd073724fb0aebb87b9ae8ee, type: 3}
+  - target: {fileID: 0}
+    propertyPath: indicatorClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 64545518873b33e49b90fdf05c6ea7a6, type: 3}
+  - target: {fileID: 0}
+    propertyPath: bumpClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 948b55abd80345b4aab96053dbe0c2ba, type: 3}
+  - target: {fileID: 0}
+    propertyPath: NOSClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 671ef8e2c38263640974ec49dc696f10, type: 3}
+  - target: {fileID: 0}
+    propertyPath: turboClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 7f48c51367eb26f4bb55673f28ae5404, type: 3}
+  - target: {fileID: 0}
+    propertyPath: blowoutClip.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: blowoutClip.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: fe7d483597e1b604a8f6f21f68b9df07, type: 3}
+  - target: {fileID: 0}
+    propertyPath: exhaustFlameClips.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: exhaustFlameClips.Array.data[0]
+    value: 
+    objectReference: {fileID: 8300000, guid: a8cfbfa0153a85c4da8402ee5479a3de, type: 3}
+  - target: {fileID: 0}
+    propertyPath: exhaustFlameClips.Array.data[1]
+    value: 
+    objectReference: {fileID: 8300000, guid: abe24e1d59cd24e48ab2b17acb6b57ff, type: 3}
+  - target: {fileID: 0}
+    propertyPath: exhaustFlameClips.Array.data[2]
+    value: 
+    objectReference: {fileID: 8300000, guid: 4ebe01570cad61a40be61693713688b4, type: 3}
+  - target: {fileID: 0}
+    propertyPath: exhaustFlameClips.Array.data[3]
+    value: 
+    objectReference: {fileID: 8300000, guid: f772a702dcfbfe9478afe01aa9429fbc, type: 3}
+  - target: {fileID: 0}
+    propertyPath: maxGearShiftingSoundVolume
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxCrashSoundVolume
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxWindSoundVolume
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: maxBrakeSoundVolume
+    value: 0.494
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldGeneralSettings
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldBehaviorSettings
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldControllerSettings
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldUISettings
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldWheelPhysics
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldSFX
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldOptimization
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: foldTagsAndLayers
+    value: 1
+    objectReference: {fileID: 0}

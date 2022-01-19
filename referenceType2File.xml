@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>12b7110e3b0986c4198472f7c0fcee3e</guid>
+    <fileName>Assets/HUDFPS.cs</fileName>
+    <timeStamp>2021-08-30T16:17:28.8718824+05:30</timeStamp>
+    <typeFullName>
+      <string>HUDFPS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T00:21:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83afb616eec41e145ab448fc63de821c</guid>
+    <fileName>Assets/Krishna/Scripts/CoinsManager.cs</fileName>
+    <timeStamp>2021-09-23T11:29:13.6812428+05:30</timeStamp>
+    <typeFullName>
+      <string>CoinsManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c796cd258e768649add6f7858952eb7</guid>
+    <fileName>Assets/Krishna/Scripts/GameOverMenu.cs</fileName>
+    <timeStamp>2021-10-04T10:28:14.5061989+05:30</timeStamp>
+    <typeFullName>
+      <string>GameOverMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e074728bc92e1a4b93e3fb992400785</guid>
+    <fileName>Assets/Krishna/Scripts/LevelBtnScript.cs</fileName>
+    <timeStamp>2021-09-29T11:57:00.6600034+05:30</timeStamp>
+    <typeFullName>
+      <string>LevelBtnScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05bed8e8dad4a7c469214abb3b074b89</guid>
+    <fileName>Assets/Krishna/Scripts/LevelCompleteMenu.cs</fileName>
+    <timeStamp>2021-09-24T14:46:42.86062+05:30</timeStamp>
+    <typeFullName>
+      <string>LevelCompleteMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d4971c9eea405c4994d80997869b3e2</guid>
+    <fileName>Assets/Krishna/Scripts/LevelSelectionBtnCreation.cs</fileName>
+    <timeStamp>2021-09-28T15:10:12.224818+05:30</timeStamp>
+    <typeFullName>
+      <string>LevelSelectionBtnCreation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c4f4d3bda0895848a4df90018416d2e</guid>
+    <fileName>Assets/Krishna/Scripts/LoadingScreen.cs</fileName>
+    <timeStamp>2021-09-29T18:18:12.7300362+05:30</timeStamp>
+    <typeFullName>
+      <string>LoadingScreen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>781ee12180d04c44ea335bffd21ebea4</guid>
+    <fileName>Assets/Krishna/Scripts/MainMenu.cs</fileName>
+    <timeStamp>2021-09-23T11:26:13.1023469+05:30</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28ade5f1df31c6d48b74ecb3961005a5</guid>
+    <fileName>Assets/Krishna/Scripts/PopUpMenu.cs</fileName>
+    <timeStamp>2021-09-28T10:39:10.8742876+05:30</timeStamp>
+    <typeFullName>
+      <string>PopUpMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4680995687f0be44bb32bc866e9fb92b</guid>
+    <fileName>Assets/Krishna/Scripts/SettingsMenu.cs</fileName>
+    <timeStamp>2021-09-28T15:15:08.636864+05:30</timeStamp>
+    <typeFullName>
+      <string>SettingsMenu</string>
+      <string>Controls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>413f90371dfade047b25476551682288</guid>
+    <fileName>Assets/Krishna/Scripts/StoreManager.cs</fileName>
+    <timeStamp>2021-09-29T17:54:16.776002+05:30</timeStamp>
+    <typeFullName>
+      <string>StoreManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b299fe52aea799d448057eef6cdcae15</guid>
+    <fileName>Assets/Krishna/Scripts/UiManager.cs</fileName>
+    <timeStamp>2021-10-04T10:28:15.5325415+05:30</timeStamp>
+    <typeFullName>
+      <string>UiManager</string>
+      <string>EUI_Menus</string>
+      <string>BusItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ead9f99133a67dc43b9df0a62d834ab6</guid>
+    <fileName>Assets/Krishna/Scripts/UIMenu.cs</fileName>
+    <timeStamp>2021-09-21T10:29:46+05:30</timeStamp>
+    <typeFullName>
+      <string>UIMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c5c592bff0638146b512cacee74d58e</guid>
+    <fileName>Assets/Krishna/Scripts/VehicleSelectionMenu.cs</fileName>
+    <timeStamp>2021-09-28T15:10:33.146047+05:30</timeStamp>
+    <typeFullName>
+      <string>VehicleSelectionMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27a1b35817b330446870f5f91a6cb59c</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_AIBZEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:46:10+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44e9aa209f7c0b142994d86fdc1c7486</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_AIEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:47:01+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82db4392be03c57478db78491ce31368</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_AIWPEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:48:40+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d19e98ba283a8f14f9b31e6cf447b81a</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_CameraEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:50:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea22798d60b05f04796cb21895ab13f0</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_Editor.cs</fileName>
+    <timeStamp>2021-09-23T12:39:40.6668923+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0b8d826ceab00c4bbe9cf29717c37c5</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_EditorWindows.cs</fileName>
+    <timeStamp>2021-02-01T01:50:20+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a9574804ef388d4591841dc7a384381</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_GroundMaterialsEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:48:26+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec77af92fa104b041aaabe59da503264</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_InitLoad.cs</fileName>
+    <timeStamp>2021-02-01T01:51:20+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ca427b0ee571f2446aa2aad31a60e33a</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_LabelEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:50:35+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>020d92fc540ab954dbca8b802168a6e7</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_LightEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:45:15+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1979e49e65d516344991064bc314c772</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_MirrorsSetupEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:45:46+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46aa832494ee9e044a4e6b957f417a02</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_RecordsEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:47:05+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7aef2869d0f4719459a11975760a42d4</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_SceneGUI.cs</fileName>
+    <timeStamp>2021-02-01T01:48:27+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>14f19dbcdeb9a234e8328f354229e88b</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_SceneManagerEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:45:40+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd58f86e3fcf6304b8094faf4fb6d460</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_SetScriptingSymbol.cs</fileName>
+    <timeStamp>2021-02-01T01:51:06+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b7a9461ce3929c42b6203d6c89821b6</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_SettingsEditor.cs</fileName>
+    <timeStamp>2021-02-01T01:49:14+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ff539a6c470a2144875d8b7f0340c41</guid>
+    <fileName>Assets/RealisticCarControllerV3/Editor/RCC_WelcomeWindow.cs</fileName>
+    <timeStamp>2021-02-01T01:46:51+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dec7f534be3fc544eb1a084c41f72e9f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC.cs</fileName>
+    <timeStamp>2021-02-01T01:51:08+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f3c2217fbfb5bb42bfcb71512f1e30d</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AIBrakeZone.cs</fileName>
+    <timeStamp>2021-02-01T01:48:34+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AIBrakeZone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c2bc58c9c7eeb34298e2b02c795a05d</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AIBrakeZonesContainer.cs</fileName>
+    <timeStamp>2021-02-01T01:49:16+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AIBrakeZonesContainer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>93dcd0266b466224f8d1d8ae405f4d73</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AICarController.cs</fileName>
+    <timeStamp>2021-02-01T01:49:02+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AICarController</string>
+      <string>RCC_AICarController+NavigationMode</string>
+      <string>RCC_AICarController+onRCCAISpawned</string>
+      <string>RCC_AICarController+onRCCAIDestroyed</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c434bd80684e08e42875240351f8d25d</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AIO.cs</fileName>
+    <timeStamp>2021-02-01T01:50:26+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AIO</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab5524b2342312d4f8db4668effe1306</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AIWaypointsContainer.cs</fileName>
+    <timeStamp>2021-02-01T01:49:41+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AIWaypointsContainer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7c5a9a38dbb3b0429683770769ac1f7</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_APIExample.cs</fileName>
+    <timeStamp>2021-02-01T01:51:37+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_APIExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bfc45fe2f86bcc246be789c1e89e81c8</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_AssetPaths.cs</fileName>
+    <timeStamp>2021-02-01T01:50:19+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_AssetPaths</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea4288f07c3e8e544a77f2b9b4fb4b66</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Caliper.cs</fileName>
+    <timeStamp>2021-02-01T01:51:19+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Caliper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c260b9344a9770347934a90c90132918</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Camera.cs</fileName>
+    <timeStamp>2021-10-04T09:32:47.0523212+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Camera</string>
+      <string>RCC_Camera+CameraMode</string>
+      <string>RCC_Camera+onBCGCameraSpawned</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59dd0be47aef4e24e9117d5f6df1d7f9</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CameraCarSelection.cs</fileName>
+    <timeStamp>2021-02-01T01:47:28+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CameraCarSelection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c25271813931d814680ab7c84ef90710</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CarControllerV3.cs</fileName>
+    <timeStamp>2021-10-01T16:08:03.9047854+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CarControllerV3</string>
+      <string>RCC_CarControllerV3+ConfigureVehicleSubsteps</string>
+      <string>RCC_CarControllerV3+SteeringWheelRotateAround</string>
+      <string>RCC_CarControllerV3+WheelType</string>
+      <string>RCC_CarControllerV3+Gear</string>
+      <string>RCC_CarControllerV3+AudioType</string>
+      <string>RCC_CarControllerV3+IndicatorsOn</string>
+      <string>RCC_CarControllerV3+onRCCPlayerSpawned</string>
+      <string>RCC_CarControllerV3+onRCCPlayerDestroyed</string>
+      <string>RCC_CarControllerV3+onRCCPlayerCollision</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3527a50da896fcf4c8078f912b0e569f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CarSelectionExample.cs</fileName>
+    <timeStamp>2021-10-04T09:26:25.1772885+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CarSelectionExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>970691d06b945c24b8c66a63db94e31b</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_ChangableWheels.cs</fileName>
+    <timeStamp>2021-02-01T01:49:07+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_ChangableWheels</string>
+      <string>RCC_ChangableWheels+ChangableWheels</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4524a01d9615771478418d3e824f1ecd</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CharacterController.cs</fileName>
+    <timeStamp>2021-02-01T01:47:02+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CharacterController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b3114d680cf22e54da110807ceaeebe6</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CinematicCamera.cs</fileName>
+    <timeStamp>2021-02-01T01:49:56+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CinematicCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0357d8b11b6651c4c8146491eb5ce0ec</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_ColorPickerBySliders.cs</fileName>
+    <timeStamp>2021-02-01T01:45:19+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_ColorPickerBySliders</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac3a208bf35686a4ba7e2063a72bb752</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Core.cs</fileName>
+    <timeStamp>2021-02-01T01:49:43+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Core</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ada86cec0aa8545408cde609b197be0f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Customization.cs</fileName>
+    <timeStamp>2021-02-01T01:49:46+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Customization</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e5c2785c18fc424088dd743bf4bfff0</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_CustomizerExample.cs</fileName>
+    <timeStamp>2021-02-01T01:48:55+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_CustomizerExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bbc9f1adb9945a54bb5b394902ad2699</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_DashboardColors.cs</fileName>
+    <timeStamp>2021-02-01T01:50:10+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_DashboardColors</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9316b71f8f092f44094427586ee457fa</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_DashboardInputs.cs</fileName>
+    <timeStamp>2021-02-01T01:49:01+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_DashboardInputs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4a253835d939a94dbd5fefa86ceba6e</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_DashboardObjects.cs</fileName>
+    <timeStamp>2021-02-01T01:49:30+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_DashboardObjects</string>
+      <string>RCC_DashboardObjects+RPMDial</string>
+      <string>RCC_DashboardObjects+SpeedoMeterDial</string>
+      <string>RCC_DashboardObjects+FuelDial</string>
+      <string>RCC_DashboardObjects+HeatDial</string>
+      <string>RCC_DashboardObjects+InteriorLight</string>
+      <string>RCC_DashboardObjects+RotateAround</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8647f49632a2254fac2ad6d517cdef8</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Demo.cs</fileName>
+    <timeStamp>2021-02-01T01:51:38+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Demo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67c763223835deb4fba9bf832986512a</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_DemoVehicles.cs</fileName>
+    <timeStamp>2021-02-01T01:47:52+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_DemoVehicles</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a98b2e6e19475c45bec725d857f98d7</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_DetachablePart.cs</fileName>
+    <timeStamp>2021-02-01T01:46:40+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_DetachablePart</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66b98cf643678c845b2a8ee2683501bb</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Exhaust.cs</fileName>
+    <timeStamp>2021-02-01T01:47:50+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Exhaust</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>329bfd12784c4c24f834463bc2995114</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_FixedCamera.cs</fileName>
+    <timeStamp>2021-02-01T01:46:28+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_FixedCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df78f1d5dd5160441ab435e4fcc6981b</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_FOVForCinematicCamera.cs</fileName>
+    <timeStamp>2021-02-01T01:51:09+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_FOVForCinematicCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4696f9b843762cb459e8e54ab3be809b</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_FuelStation.cs</fileName>
+    <timeStamp>2021-02-01T01:47:04+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_FuelStation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bc67ce9fc2b13d43af6ee0ca169e3d2</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_GetBounds.cs</fileName>
+    <timeStamp>2021-02-01T01:47:57+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_GetBounds</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7eb1a463d58d67241ac93ce41125f622</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_GroundMaterials.cs</fileName>
+    <timeStamp>2021-02-01T01:48:34+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_GroundMaterials</string>
+      <string>RCC_GroundMaterials+GroundMaterialFrictions</string>
+      <string>RCC_GroundMaterials+TerrainFrictions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df49e4c9448a62f4b9f91d03ef06dfb7</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_HoodCamera.cs</fileName>
+    <timeStamp>2021-02-01T01:51:09+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_HoodCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99b6935d46b22894f94812ad5643b4ad</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_InfoLabel.cs</fileName>
+    <timeStamp>2021-02-01T01:49:10+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_InfoLabel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>61e25ef321f8f794d8993e30a99ddf00</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_InputManager.cs</fileName>
+    <timeStamp>2021-09-23T13:37:13.6402412+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_InputManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af80a4be78e2ae546a8f5853d4fde10c</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Inputs.cs</fileName>
+    <timeStamp>2021-02-01T01:49:51+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Inputs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39db989f5b96db947ab26e44bfb6b2f5</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_LevelLoader.cs</fileName>
+    <timeStamp>2021-02-01T01:46:39+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_LevelLoader</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>196a38f32d421d44eb21abcc703e8589</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Light.cs</fileName>
+    <timeStamp>2021-02-01T01:45:46+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Light</string>
+      <string>RCC_Light+LightType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd7f59f4129565d499a41bafe5e133dd</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_LightEmission.cs</fileName>
+    <timeStamp>2021-02-01T01:51:46+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_LightEmission</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b40e0afcd5cdd3a428bda44732e995ed</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Mirror.cs</fileName>
+    <timeStamp>2021-02-01T01:49:58+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Mirror</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2088f6ae8891ce94ead8a80325c2fd78</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_MobileButtons.cs</fileName>
+    <timeStamp>2021-09-23T14:34:58.2371396+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_MobileButtons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d17683621907c3f40b7fdbc0f67fdafb</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_MobileUIDrag.cs</fileName>
+    <timeStamp>2021-02-01T01:50:45+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_MobileUIDrag</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ca2276ca458d614b91b58a5b021f6cc</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_PlayerPrefsX.cs</fileName>
+    <timeStamp>2021-02-01T01:47:13+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_PlayerPrefsX</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1260c1b72ffb9d04aaaec13f2c3e23a0</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_PoliceSiren.cs</fileName>
+    <timeStamp>2021-02-01T01:45:35+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_PoliceSiren</string>
+      <string>RCC_PoliceSiren+SirenMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>317511f981e0ee04b896d095214d4369</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Recorder.cs</fileName>
+    <timeStamp>2021-02-01T01:46:27+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Recorder</string>
+      <string>RCC_Recorder+Recorded</string>
+      <string>RCC_Recorder+PlayerInput</string>
+      <string>RCC_Recorder+PlayerTransform</string>
+      <string>RCC_Recorder+PlayerRigidBody</string>
+      <string>RCC_Recorder+Mode</string>
+      <string>Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>babebc0e89374ed428f9d2b61c0acdf9</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Records.cs</fileName>
+    <timeStamp>2021-02-01T01:50:09+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Records</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7c697b005903df40bb8ac2f8d369fc3</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_RepairStation.cs</fileName>
+    <timeStamp>2021-02-01T01:51:16+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_RepairStation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c662e5ba2773ae84abb47de8381ad2d2</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_SceneManager.cs</fileName>
+    <timeStamp>2021-09-16T11:56:06.5089563+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_SceneManager</string>
+      <string>RCC_SceneManager+RecordMode</string>
+      <string>RCC_SceneManager+onControllerChanged</string>
+      <string>RCC_SceneManager+onBehaviorChanged</string>
+      <string>RCC_SceneManager+onVehicleChanged</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7756f06ac1b082e4bb1697f768a5a41f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Settings.cs</fileName>
+    <timeStamp>2021-02-01T01:48:19+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Settings</string>
+      <string>RCC_Settings+BehaviorType</string>
+      <string>RCC_Settings+ControllerType</string>
+      <string>RCC_Settings+Units</string>
+      <string>RCC_Settings+UIType</string>
+      <string>RCC_Settings+MobileController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e4da86b1967f124486cd5cf4530fe9f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_ShadowRotConst.cs</fileName>
+    <timeStamp>2021-02-01T01:48:31+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_ShadowRotConst</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb325412de0d9df4e8014c7de65c9795</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Skidmarks.cs</fileName>
+    <timeStamp>2021-02-01T01:51:19+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Skidmarks</string>
+      <string>RCC_Skidmarks+markSection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47ea3e22ed33b7746afb37daa77e4169</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_SkidmarksManager.cs</fileName>
+    <timeStamp>2021-02-01T01:47:07+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_SkidmarksManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ddce82d4f589f140b6ca48500c9d905</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Spawner.cs</fileName>
+    <timeStamp>2021-02-01T01:45:32+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Spawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22a65fbe450d08f4e87a7ecb30c05b0d</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_SuspensionArm.cs</fileName>
+    <timeStamp>2021-02-01T01:46:03+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_SuspensionArm</string>
+      <string>RCC_SuspensionArm+SuspensionType</string>
+      <string>RCC_SuspensionArm+Axis</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3adf9789def5954ca5f7de5282fbc6c</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Telemetry.cs</fileName>
+    <timeStamp>2021-02-01T01:51:30+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Telemetry</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aae63a8e03d40ed498dcf222890c5e40</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Teleporter.cs</fileName>
+    <timeStamp>2021-02-01T01:49:39+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Teleporter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b2ffc80f995c0b419dc788eb942135f</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_TrailerAttachPoint.cs</fileName>
+    <timeStamp>2021-02-01T01:48:51+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_TrailerAttachPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b89aa9911effef24fbf4f6470fc94658</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_TruckTrailer.cs</fileName>
+    <timeStamp>2021-09-15T14:32:42.756255+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_TruckTrailer</string>
+      <string>RCC_TruckTrailer+TrailerWheel</string>
+      <string>RCC_TruckTrailer+JointRestrictions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e027cf5d099f8a41ab78532b4e84490</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UIController.cs</fileName>
+    <timeStamp>2021-02-01T01:49:21+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UIController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03f42615342d2fb468d1f038c4919a58</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UIDashboardButton.cs</fileName>
+    <timeStamp>2021-09-29T14:56:01.900937+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UIDashboardButton</string>
+      <string>RCC_UIDashboardButton+ButtonType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8eddd06568b811f4db21de338db34e90</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UIDashboardDisplay.cs</fileName>
+    <timeStamp>2021-09-23T14:34:12.1198453+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UIDashboardDisplay</string>
+      <string>RCC_UIDashboardDisplay+DisplayType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d218048698d956245b3dc053bffcc2c7</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UIJoystick.cs</fileName>
+    <timeStamp>2021-02-01T01:50:47+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UIJoystick</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad6b397d5dbb276478f91d3be3d72381</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UISliderTextReader.cs</fileName>
+    <timeStamp>2021-02-01T01:49:45+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UISliderTextReader</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c6ad050d0f316542b852e37fd7ed3dc</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_UISteeringWheelController.cs</fileName>
+    <timeStamp>2021-02-01T01:46:21+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_UISteeringWheelController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad305b9d4a5fd694d94bfce21d878464</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Useless.cs</fileName>
+    <timeStamp>2021-02-01T01:49:45+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Useless</string>
+      <string>RCC_Useless+Useless</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3400764109dcd448bc0bc3fa3b11ea0</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_Waypoint.cs</fileName>
+    <timeStamp>2021-02-01T01:49:28+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_Waypoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bc8ca0593957224185acb02da2730dc</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_WheelCamera.cs</fileName>
+    <timeStamp>2021-02-01T01:45:50+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_WheelCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8f2810a20460894690b9c5d4b433d23</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_WheelCollider.cs</fileName>
+    <timeStamp>2021-02-01T01:50:06+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_WheelCollider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>23dec94366316534cb10ca78d460d79d</guid>
+    <fileName>Assets/RealisticCarControllerV3/Scripts/RCC_XRToggle.cs</fileName>
+    <timeStamp>2021-02-01T01:46:04+05:30</timeStamp>
+    <typeFullName>
+      <string>RCC_XRToggle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>be76e5f14cfee674cb30b491fb72b09b</guid>
+    <fileName>Assets/URP DEfault/Scripts/SimpleCameraController.cs</fileName>
+    <timeStamp>2020-12-03T16:41:43+05:30</timeStamp>
+    <typeFullName>
+      <string>UnityTemplateProjects.SimpleCameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd3b7385882055d4a8c2b91deb6b2470</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Android/DebugLogLogcatListener.cs</fileName>
+    <timeStamp>2021-07-16T01:15:50+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c23e5c521cb0c54b9a638b2a653d1d3</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Editor/DebugLogManagerEditor.cs</fileName>
+    <timeStamp>2021-07-16T01:15:41+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6136cb3c00eac0149901b8e7f2fecef8</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/CircularBuffer.cs</fileName>
+    <timeStamp>2021-07-16T01:15:42+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>324bb39c0bff0f74fa42f83e91f07e3a</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/ConsoleMethodAttribute.cs</fileName>
+    <timeStamp>2021-07-16T01:15:38+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d15693a03d0d33b4892c6365a2a97e19</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogConsole.cs</fileName>
+    <timeStamp>2021-07-29T17:11:29.7179814+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7b1a420c564be040bf73b8a377fc2c2</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogEntry.cs</fileName>
+    <timeStamp>2021-07-16T01:15:51+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>37c6c91e5bfac6f499698c03f593bcbb</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogIndexList.cs</fileName>
+    <timeStamp>2021-07-16T01:15:39+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2ea291be9de70a4abfec595203c96c1</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogItem.cs</fileName>
+    <timeStamp>2021-07-16T01:15:50+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a7d9d894141e704d8160fb4632121ac</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogItemCopyWebGL.cs</fileName>
+    <timeStamp>2021-07-16T01:15:41+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a4f16ed905adcd4ab0d7c8c11f0d72c</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogManager.cs</fileName>
+    <timeStamp>2021-07-29T17:11:29.6980351+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>05cc4b1999716644c9308528e38e7081</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogPopup.cs</fileName>
+    <timeStamp>2021-07-16T01:15:37+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce231987d32488f43b6fb798f7df43f6</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogRecycledListView.cs</fileName>
+    <timeStamp>2021-07-16T01:15:49+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6565f2084f5aef44abe57c988745b9c3</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugLogResizeListener.cs</fileName>
+    <timeStamp>2021-07-16T01:15:42+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb564dcb180e586429c57456166a76b5</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/DebugsOnScrollListener.cs</fileName>
+    <timeStamp>2021-07-16T01:15:49+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33fb3ee25c8764f4c905fa3ac7c4eb89</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/Commands/PlayerPrefsCommands.cs</fileName>
+    <timeStamp>2021-07-16T01:15:38+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45984eacd62d9a3489fd62689265a23c</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/Commands/SceneCommands.cs</fileName>
+    <timeStamp>2021-07-16T01:15:40+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb12a1f557fffa541909fcfe92d9c1bf</guid>
+    <fileName>Assets/Vishal_Cust/IngameDebugConsole/Scripts/Commands/TimeCommands.cs</fileName>
+    <timeStamp>2021-07-16T01:15:48+05:30</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>384c5252533488c439eb9d370365c55c</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/BusSimulation.cs</fileName>
+    <timeStamp>2021-10-04T10:51:43.2604462+05:30</timeStamp>
+    <typeFullName>
+      <string>BusSimulation</string>
+      <string>LevelInfo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da70fb65679fe0f47b4794a6a4753f1c</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/BusSpawnAndRotate.cs</fileName>
+    <timeStamp>2021-09-28T15:10:33.23082+05:30</timeStamp>
+    <typeFullName>
+      <string>BusSpawnAndRotate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ed7dee486ff9a248b2fc053268dca1c</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/DamageGiver.cs</fileName>
+    <timeStamp>2021-09-29T18:30:54.1167653+05:30</timeStamp>
+    <typeFullName>
+      <string>DamageGiver</string>
+      <string>DamageType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e7d6e46dbbc506449bb9ac60a2feb09</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/ExtraTagObjectContainer.cs</fileName>
+    <timeStamp>2021-10-01T18:45:11.8956118+05:30</timeStamp>
+    <typeFullName>
+      <string>ExtraTagObjectContainer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7acc39decab1a854db3ba51e74e8c8b0</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/GameManager.cs</fileName>
+    <timeStamp>2021-09-29T11:57:11.1398745+05:30</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65a48b8a26fcb7d419dcea888422272c</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/Gate.cs</fileName>
+    <timeStamp>2021-10-04T12:26:37.8658281+05:30</timeStamp>
+    <typeFullName>
+      <string>Gate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ffeba27bd294745489688e26f246d486</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/Passenger.cs</fileName>
+    <timeStamp>2021-10-01T18:53:47.8307764+05:30</timeStamp>
+    <typeFullName>
+      <string>Passenger</string>
+      <string>Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58009fe102b7e1e43930fa2ab0dc1236</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/PassengerManager.cs</fileName>
+    <timeStamp>2021-10-01T16:03:07.7702624+05:30</timeStamp>
+    <typeFullName>
+      <string>PassengerManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c50ae80237827e6408a2abc0e2455784</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/PickDropArea.cs</fileName>
+    <timeStamp>2021-10-01T11:59:26.5421899+05:30</timeStamp>
+    <typeFullName>
+      <string>PickDropArea</string>
+      <string>BusStopMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1c67293b03d8a9e4aa0923741548bc2b</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/SafeArea.cs</fileName>
+    <timeStamp>2021-09-29T17:59:06.9346274+05:30</timeStamp>
+    <typeFullName>
+      <string>SafeArea</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1abca599a1599c447a233faca0ea0d38</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/SingleTon`.cs</fileName>
+    <timeStamp>2021-09-28T14:56:51.7601237+05:30</timeStamp>
+    <typeFullName>
+      <string>SingleTon`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f4c038f2a826ee42ba097254e439843</guid>
+    <fileName>Assets/Vishal_Cust/Scripts/StringManager.cs</fileName>
+    <timeStamp>2021-10-04T12:26:00.1465972+05:30</timeStamp>
+    <typeFullName>
+      <string>StringManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

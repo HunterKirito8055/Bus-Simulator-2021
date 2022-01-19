@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AchievementData
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 6047d31444fc39e4098aea6a89baa95f,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].display
+    value: No Crash
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].description
+    value: Complete One Job Without any Crashes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].ID
+    value: NO_CRASH_1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].goal
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[0].hidden
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].display
+    value: Super Driver
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].description
+    value: Drive 500 Meters
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].ID
+    value: SUPER_DRIVE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].goal
+    value: 500
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[1].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].display
+    value: Paris Novice
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].description
+    value: Complete 2 Jobs in Paris
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].ID
+    value: PARIS_NOVICE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].goal
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[2].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].display
+    value: Rome Novice
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].description
+    value: Complete 3 Jobs in Rome
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].ID
+    value: ROME_NOVICE
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].goal
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[3].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].display
+    value: Basic Bus
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].description
+    value: Unlock 1 Bus
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].ID
+    value: UNLOCK_1_BUS
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].goal
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[4].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].display
+    value: Basic Spender
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].description
+    value: Spend 1000 Coins
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].ID
+    value: BASIC_SPENDER
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].goal
+    value: 1000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[5].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].display
+    value: Fuel Spender
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].description
+    value: Spend 2000 on Fuel
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].ID
+    value: FUEL_SPENDER
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].goal
+    value: 2000
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[6].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].display
+    value: No Crash Pro
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].description
+    value: Complete 10 Jobs without Crashing
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].ID
+    value: NO_CRASH_10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].goal
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[7].hidden
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].display
+    value: One Dropoff
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].description
+    value: Complete one Dropoff
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].ID
+    value: ONE_DROPOFF
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].goal
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[8].hidden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].icon
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].display
+    value: One Pickup
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].description
+    value: Complete Picking one time
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].ID
+    value: ONE_PICKUP
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].current
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].goal
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].unlocked
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: achievements.Array.data[9].hidden
+    value: 1
+    objectReference: {fileID: 0}

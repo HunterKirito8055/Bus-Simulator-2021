@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Weather_Cloudy
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 9f89ffb69ed90394a89879b82622b254,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bUseDifferentFadeTimes
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fFadeTime
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fSunriseFadeTime
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fDayFadeTime
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fSunsetFadeTime
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fNightFadeTime
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bUseInit
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fInitTimerEnd
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bUsingSound
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _adAmbientSound
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fSoundVolume
+    value: 0.02
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fTimeToFadeSound
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fLowestTemp
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fHighestTemp
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fSunrise_LightIntensity
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fDay_LightIntensity
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fSunset_LightIntensity
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fNight_LightIntensity
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_LightColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_LightColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_LightColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_LightColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_LightColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_LightColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_LightColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_LightColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_LightColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_LightColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_LightColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_LightColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_LightColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_LightColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_LightColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_LightColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fNight_MoonLightIntensity
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_MoonLightColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_MoonLightColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_MoonLightColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_MoonLightColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyTintColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyTintColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyTintColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyTintColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyTintColor.r
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyTintColor.g
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyTintColor.b
+    value: 0.37647063
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyTintColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyTintColor.r
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyTintColor.g
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyTintColor.b
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyTintColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyTintColor.r
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyTintColor.g
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyTintColor.b
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyTintColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyGroundColor.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyGroundColor.g
+    value: 0.92156863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyGroundColor.b
+    value: 0.015686275
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunrise_SkyGroundColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyGroundColor.r
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyGroundColor.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyGroundColor.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cDay_SkyGroundColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyGroundColor.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyGroundColor.g
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyGroundColor.b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cSunset_SkyGroundColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyGroundColor.r
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyGroundColor.g
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyGroundColor.b
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cNight_SkyGroundColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cCloudColor.r
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cCloudColor.g
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cCloudColor.b
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cCloudColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fFogAmount
+    value: 0.08
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _fFogMorningAmount
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bUseMorningFog
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cFogColor.r
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cFogColor.g
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cFogColor.b
+    value: 0.23529413
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cFogColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _pSunriseParticle
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _pDayParticle
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _pSunsetParticle
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _pNightParticle
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _gSoundEffect
+    value: 
+    objectReference: {fileID: 0}

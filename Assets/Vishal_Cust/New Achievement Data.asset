@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6047d31444fc39e4098aea6a89baa95f, type: 3}
+  m_Name: New Achievement Data
+  m_EditorClassIdentifier: 
+  achievements:
+  - icon: {fileID: 0}
+    display: No Crash
+    description: Complete One Job Without any Crashes
+    ID: NO_CRASH_1
+    current: 0
+    goal: 1
+    unlocked: 0
+    hidden: 1
+  - icon: {fileID: 21300000, guid: 9e7ac442d0040dc44b6dedbc949128b1, type: 3}
+    display: Super Driver
+    description: Drive 500 Meters
+    ID: SUPER_DRIVE
+    current: 500
+    goal: 500
+    unlocked: 1
+    hidden: 0
+  - icon: {fileID: 0}
+    display: Paris Novice
+    description: Complete 2 Jobs in Paris
+    ID: PARIS_NOVICE
+    current: 0
+    goal: 2
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: Rome Novice
+    description: Complete 3 Jobs in Rome
+    ID: ROME_NOVICE
+    current: 0
+    goal: 3
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: Basic Bus
+    description: Unlock 1 Bus
+    ID: UNLOCK_1_BUS
+    current: 0
+    goal: 1
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: Basic Spender
+    description: Spend 1000 Coins
+    ID: BASIC_SPENDER
+    current: 0
+    goal: 1000
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: Fuel Spender
+    description: Spend 2000 on Fuel
+    ID: FUEL_SPENDER
+    current: 0
+    goal: 2000
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: No Crash Pro
+    description: Complete 10 Jobs without Crashing
+    ID: NO_CRASH_10
+    current: 0
+    goal: 10
+    unlocked: 0
+    hidden: 1
+  - icon: {fileID: 0}
+    display: One Dropoff
+    description: Complete one Dropoff
+    ID: ONE_DROPOFF
+    current: 0
+    goal: 1
+    unlocked: 0
+    hidden: 0
+  - icon: {fileID: 0}
+    display: One Pickup
+    description: Complete Picking one time
+    ID: ONE_PICKUP
+    current: 0
+    goal: 1
+    unlocked: 0
+    hidden: 1
